@@ -309,6 +309,14 @@ div.required .control-label:before {
 #content {
 	min-height: 600px;
 }
+#categories img {
+	min-height: 26px;
+	width: 100%;
+	margin-top: 20px;
+}
+#categories h3 {
+	margin-top: 5px;
+}
 /* footer */
 footer {
 	margin-top: 30px;
