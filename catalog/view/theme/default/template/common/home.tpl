@@ -48,31 +48,65 @@
         </div>
     </div>
 </div>
+<hr />
 <div class="container">
-    <div class="col-md-4">
-        <h2>Доставка</h2>
-        <p>Мы предлагаем различные варианты доставки вашего заказа — каждый найдет подходящий для себя. Доставка осуществляется по всей Украине!</p><br/>
-        <p>Все способы доставки представлены <a href="#">здесь</a></p>
+    <div class="row">
+        <div class="col-md-4">
+            <h2>О компании Krovlya100.dp.ua</h2>
+        </div>
+        <div class="col-md-8">
+            <p>Компания «Кровля 100» производит металлочерепицу, профнастил и комплектующие 10 лет. Вы получаете знания и умения самых лучших специалистов, не переплачивая за громкое имя фирмы. Обращаясь к нам, вы получаете отработанные, отлаженные технологии.</p>
+            <p>Мы разработали собственную систему гарантии  и качества. На заводе используется система линий финского производства для изготовления металлочерепицы, профлиста, сендвич-панелей,металлоконструкций быстровозводимых зданий.</p>
+            <p>Миссия компании «Кровля 100» – производство  качественного материала для строительства доступность для украинского потребителя. Чтобы достичь этой цели  мы работаем  с покупателями напрямую. Цена при этом приемлемая. Для наших любимых клиентов постоянно действует система акций и скидок.</p>
+            <p>Подробнее о нас на этой <a href="#">странице</a></p>
+        </div>
     </div>
-    <div class="col-md-2">
-        <img src="catalog/view/theme/default/image/page-home/ic_directions_bike_black_48dp_2x.png" alt="Самовывоз">
-        <h3>Самовывоз</h3>
-        <p>личным транспортом</p>
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Подарки покупателям</h2>
+        </div>
+        <div class="col-md-8">
+            <img src="catalog/view/theme/default/image/page-home/podarkos.jpg" alt="Подарки покупателям">
+        </div>
     </div>
-    <div class="col-md-2">
-        <img src="catalog/view/theme/default/image/page-home/ic_local_shipping_black_48dp_2x.png" alt="Курьер">
-        <h3>Курьер</h3>
-        <p>«Газель» или «Длинномер»</p>
+</div>
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Доставка</h2>
+            <p>Мы предлагаем различные варианты доставки вашего заказа — каждый найдет подходящий для себя. Доставка осуществляется по всей Украине!</p><br/>
+            <p>Все способы доставки представлены <a href="#">здесь</a></p>
+        </div>
+        <div class="col-md-2">
+            <img src="catalog/view/theme/default/image/page-home/ic_directions_bike_black_48dp_2x.png" alt="Самовывоз">
+            <h3>Самовывоз</h3>
+            <p>личным транспортом</p>
+        </div>
+        <div class="col-md-2">
+            <img src="catalog/view/theme/default/image/page-home/ic_local_shipping_black_48dp_2x.png" alt="Курьер">
+            <h3>Курьер</h3>
+            <p>«Газель» или «Длинномер»</p>
+        </div>
+        <div class="col-md-2">
+            <img src="catalog/view/theme/default/image/page-home/ic_zoom_out_map_black_48dp_2x.png" alt="Новая Почта">
+            <h3>Новая Почта</h3>
+            <p>В любое отделение Украины</p>
+        </div>
+        <div class="col-md-2">
+            <img src="catalog/view/theme/default/image/page-home/ic_directions_black_48dp_2x.png" alt="Интайм">
+            <h3>Интайм</h3>
+            <p>С доставкой «на дом»</p>
+        </div>      
     </div>
-    <div class="col-md-2">
-        <img src="catalog/view/theme/default/image/page-home/ic_zoom_out_map_black_48dp_2x.png" alt="Новая Почта">
-        <h3>Новая Почта</h3>
-        <p>В любое отделение Украины</p>
-    </div>
-    <div class="col-md-2">
-        <img src="catalog/view/theme/default/image/page-home/ic_directions_black_48dp_2x.png" alt="Интайм">
-        <h3>Интайм</h3>
-        <p>С доставкой «на дом»</p>
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Контакты</h3>
+        </div>
+        <div class="col-md-8">
+            <h2>Мы заинтересованы в длительном и взаимовыгодном сотрудничестве. Именно потому наши менеджеры дадут вам подробные консультации по любым интересующим вас вопросам.</h2>
+            <p>Связаться с нами вы можете по телефону (097) 079 19 59; (063)5243000; (097)8929672 или отправив нам e-mail на адрес s.dnepr@yandex.ru. Кроме того, вы можете воспользоваться формой обратной связи на <a href="#">этой странице</a>.</p>
+        </div>
     </div>
 </div>
 <div class="container">
