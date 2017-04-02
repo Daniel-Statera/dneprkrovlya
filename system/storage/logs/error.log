@@ -1,1 +1,39 @@
-2017-03-26 22:29:15 - PHP Warning:  ftp_chdir(): /home/testfl/testfl.dp.ua/dneprkrovlya/: No such file or directory in /home/testfl/testfl.dp.ua/dneprkrovlya/admin/controller/extension/installer.php on line 298
+2017-04-02 18:20:14 - PHP Warning:  ftp_chdir(): /home/testfl/testfl.dp.ua/dneprkrovlya/: No such file or directory in /home/testfl/testfl.dp.ua/dneprkrovlya/admin/controller/extension/installer.php on line 299
+2017-04-02 18:23:41 - PHP Warning:  ftp_chdir(): /home/testfl/testfl.dp.ua/dneprkrovlya/: No such file or directory in /home/testfl/testfl.dp.ua/dneprkrovlya/admin/controller/extension/installer.php on line 299
+2017-04-02 18:23:57 - PHP Warning:  ftp_chdir(): /home/testfl/testfl.dp.ua/dneprkrovlya/: No such file or directory in /home/testfl/testfl.dp.ua/dneprkrovlya/admin/controller/extension/installer.php on line 299
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 26
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 28
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 30
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 32
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 34
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 36
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 38
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 40
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 42
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 44
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 46
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 48
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 50
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 52
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 54
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 56
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 58
+2017-04-02 18:26:08 - PHP Notice:  Undefined variable: nav in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 85
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 26
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 28
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 30
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 32
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 34
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 36
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 38
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 40
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 42
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 44
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 46
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 48
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 50
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 52
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 54
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 56
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: theme in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 58
+2017-04-02 18:26:20 - PHP Notice:  Undefined variable: nav in /home/testfl/testfl.dp.ua/dneprkrovlya/catalog/view/theme/basecart/template/common/header.tpl on line 85

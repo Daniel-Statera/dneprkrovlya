@@ -88,12 +88,10 @@ div.required .control-label:before {
 #top .container {
 	padding: 0 20px;
 }
-#top #form-currency .currency-select,
-#top #form-language .language-select {
+#top #currency .currency-select {
 	text-align: left;
 }
-#top #form-currency .currency-select:hover,
-#top #form-language .language-select:hover {
+#top #currency .currency-select:hover {
 	text-shadow: none;
 	color: #ffffff;
 	background-color: #229ac8;
@@ -308,22 +306,6 @@ div.required .control-label:before {
 /* content */
 #content {
 	min-height: 600px;
-}
-#categories img {
-	min-height: 26px;
-	width: 100%;
-	margin-top: 20px;
-}
-#categories img:hover {
-	-webkit-transform: scale(0.9);
-	-moz-transform: scale(0.9);
-	-o-transform: scale(0.9);
-}
-#categories img:active {
-	opacity: 0.5;
-}
-#categories h3 {
-	margin-top: 5px;
 }
 /* footer */
 footer {
